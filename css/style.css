@@ -1,0 +1,22 @@
+*{
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.body1{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+}
+
+.intro{
+    display: flex;
+}
+
+div .subdody{
+    display: flex;
+    flex-direction: column;
+}
