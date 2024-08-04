@@ -16,7 +16,8 @@
     display: flex;
 }
 
-div .subdody{
+.sub-body{
     display: flex;
-    flex-direction: column;
+    
+    
 }
