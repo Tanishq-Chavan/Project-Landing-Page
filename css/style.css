@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+div.boss-alignment
+{
+margin: 24px;
+padding: 12px;
+margin-left: 100px;
+}
+
+div.header{
+    display: flex;
+    padding-left: 20px;
+    font-size: 26px;
+    color: white;
+}
+
+.body1
+{
+    background-color: #1f2937;
+}
+
+
+.data1 .text1{
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+div.text2{
+    color: white;
+    padding-bottom: 12px;
+}
+
+div.links
+{
+    display: flex;
+    gap: 24px;
+    margin-left: auto;
+    margin-right: 500px;
+    
+}
+
+a{
+    color: white;
+}
+div.intro
+{
+    display: flex;
+    padding: 20px;
+    padding-top: 58px;
+}
+
+.data2 .img
+{
+    margin-left: 600px;
+}
+
+div.data1
+{
+    display: flex;
+    align-items: flex-start;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+.button1 button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: blue;
+    border-radius: 8%;
+    color: white;
+    font-weight: bold;
+}
+
+div.body2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(229, 237, 88);
+
+
+}
+
+.body2 h2{
+    padding: 35px;
+    text-align: center;
+    font-size: 36px;
+}
+
+.body2 .sub-body{
+    display: flex;
+    justify-content: center;
+    gap: 84px;
+    
+    padding: 50px;
+    
+}
+
+.info img
+{
+  border-radius: 10%;
+}
+
+.subtext1, .subtext2, .subtext3, .subtext4{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-size: 18px;
+    
+    align-items: center;
+}
+
+.body3
+{
+    padding: 100px;
+    background-color: rgb(197, 193, 193);
+}
+.thought
+{
+    font-size: 36px;
+}
+.author
+{
+    margin-left: 1400px;
+    font-size: 18px;
+}
+
+.body4{
+    padding: 180px;
+    display: flex;
+    justify-content: center;
+    
+}
+.body4 .container{
+    background-color: rgb(74, 74, 219);
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+    padding-left: 300px;
+    padding-right: 300px;
+    
+}
+
+div.last2{
+    margin-left: 84px;
+    
+}
+.last1 .text3{
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    
+}
+.last1 .text4{
+    font-size: 14px;
+    color: white;
+}
+.last2 button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(74, 74, 219);
+    color: white;
+    border-color: white;
+    border-radius: 10%;
+}
